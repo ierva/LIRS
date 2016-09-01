@@ -1,0 +1,57 @@
+/*
+	
+    LLL	        III     RRRRRRRR     SSSSSSSSS   
+	LLL         III     RR    RR     SS
+	LLL         III     RR    RR     SS 
+	LLL         III     RRRRRRRR     SSSSSSSSS
+	LLL         III     RRRR                SS
+	LLL         III     RR  RR              SS
+	LLLLLLLLL   III     RR    RR     SSSSSSSSS
+
+*** 
+	
+	
+	
+*/
+
+
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+
+
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fcfcfc;
+  padding-bottom: 90px; /*da eliminare */
+}
+
+.topnav{
+	width: 100%;
+	height: 65px;
+	background-color: #5D627A;
+}
+.img-slide{
+	height: 350px;
+	width: 100%;
+}
+
+
+.box-padding{
+	padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 30px;
+}
+
+.box-padding-product{
+	padding:20px;
+}
+
+.prodotti-usati{
+	width: 100%;
+	height: 90px;
+	background-color: #2b2c2d;
+}

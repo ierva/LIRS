@@ -1,9 +1,15 @@
 <?php include('template.php')?>
 
-<?php HtmlHeader(); ?>
+<?php HtmlHeader(); 
+		
+	   HtmlTopNav();
+	   HtmlNavBar();
+	   HtmlSlide();
+	   HtmlBoxHome();
+	
+?>
 
-    <h1>Hello, world!</h1>
-
+ 
 <?php HtmlFooter(); ?>
 
    
