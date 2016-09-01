@@ -34,22 +34,28 @@ body {
 	height: 65px;
 	background-color: #5D627A;
 }
+
+
+@media (min-width: 768px) {
+  
 .img-slide{
 	height: 350px;
 	width: 100%;
 }
 
-
 .box-padding{
 	padding-left: 90px;
     padding-right: 90px;
     padding-top: 30px;
+    font-size: 12px !important;
+    font-weight: 100;
+    text-align: justify;
 }
 
 .box-padding-product{
 	padding:20px;
 }
-
+}
 .prodotti-usati{
 	width: 100%;
 	height: 90px;
