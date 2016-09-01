@@ -58,7 +58,10 @@ Lorem Ipsum è un testo segnaposto utilizzato nel settore
 		</div>		
 
 
-<div class="prodotti-usati"></div>
+<div class="prodotti-usati">
+Cogli una nuova idea di connettività
+
+</div>
 
 
 <?php	} ?>

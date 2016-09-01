@@ -17,7 +17,7 @@
       <img src="./img/img1.jpg" alt="...">
     </div>
     <div class="item img-slide">
-      <img src="./img/img1.jpg" alt="...">
+      <img src="./img/img2.jpg" alt="...">
     </div>
   </div>
 

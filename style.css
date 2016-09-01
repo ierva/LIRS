@@ -60,4 +60,8 @@ body {
 	width: 100%;
 	height: 90px;
 	background-color: #2b2c2d;
+	color: #fff;
+	text-align: center;
+	line-height: 90px;
+	font-size: 30px;
 }
